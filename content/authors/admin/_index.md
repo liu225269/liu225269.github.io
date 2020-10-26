@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Chun-Yi Liu is a PhD student at Pennsylvania State Computer Engineering MDL lab. His research interests include Solid-state Disk(SSD) based storage system and high performance computing. More specific, he proposed and developed various techniques to address the performance and reliability problems caused by extremely high density 3D NAND-based SSDs. Besdies that, he also interesting in integrating high-performance computings and storage systems, where the overall system performance can be dramatically improved due to the reduced communication overheads between computation and storage.
+Chun-Yi Liu is a Ph.D. student at Pennsylvania State Computer Engineering MDL lab. His research interests include Solid-state Disk (SSD) based storage system, near data processing, and emerging memories. Specifically, he believes, as the density of (3D) NAND flash increases significantly, SSD and NAND manufacturers should develop new SSD firmware management schemes and support new types of NAND basic operations to address the density-induced performance and reliability problems. Besdies that, he also interesting in integrating high-performance computings and storage systems, where the overall system performance can be dramatically improved due to the reduced communication overheads between computation and storage. Lastly, he also believes new emerging memories will change the memory hierarchy in the future due to the superior performance compared to the NAND chips and lower price per GB compared to DRAM. 
 
 
